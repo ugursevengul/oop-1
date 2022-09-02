@@ -1,4 +1,5 @@
 # oop-1
 Object Oriented Programming > Ödev - Üniversite Yönetim Sistemi
 
-!(oop-1)[oop-1.jpg]
+[patika.dev](https://app.patika.dev/courses/oop/odev-university)
+![image](oop-1.jpg)
